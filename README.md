@@ -25,6 +25,7 @@ This project aims to classify SMS messages as spam or not spam using a Naive Bay
     python app.py
     ```
 3. Access the application at `http://localhost:5000` in your web browser.
+4. app.py is included in the code of `spam_sms_detection.ipynb`
 
 ### Usage
 
